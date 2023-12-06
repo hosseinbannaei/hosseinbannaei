@@ -1,4 +1,15 @@
-### Hi there 👋
+## About Me
+I was born to solve problems, but I was born in the sea of problems 🔧
+
+## Skills
+<p align="left">
+ <a href="https://github.com/hosseinbannaei">
+   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,jquery,docker,git,github,gitlab,mysql,sqlite,nodejs,vue,blender,cs,figma,ai,pr,ae,linux,md,nuxtjs,bash,py,threejs,unity,unreal" />
+ </a>
+</p>
+
+## Status
+![hosseinbannaei's Stats](https://github-readme-stats.vercel.app/api?username=hosseinbannaei&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **hosseinbannaei/hosseinbannaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
